@@ -2,19 +2,32 @@
 
 ### AI-Powered Delivery Risk Prediction System
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python">
-  <img src="https://img.shields.io/badge/FastAPI-Production-green?logo=fastapi">
-  <img src="https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit">
-  <img src="https://img.shields.io/badge/ML-Scikit--Learn-orange">
-</p>
-
 ---
 
 ## 🌍 Live Demo
 
-👉 **[Launch App](YOUR_HUGGINGFACE_SPACE_LINK)**
+👉 **[Launch App](https://huggingface.co/spaces/bringerofdarkness/olist-intelligent-guardrail)**  
 *(Interactive AI dashboard with real-time prediction)*
+
+---
+
+## 📸 App Preview
+
+### 🚀 Predictive Delivery Guardrail
+<p align="center">
+  <img src="assets/prediction.png" width="900">
+</p>
+
+### 📊 Strategic Analytics
+<p align="center">
+  <img src="assets/static_analysis.png" width="900">
+</p>
+
+### 🎛️ Sidebar Controls
+<p align="center">
+  <img src="assets/sidebar.png" width="400">
+</p>
+
 
 ---
 
