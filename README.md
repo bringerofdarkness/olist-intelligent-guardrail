@@ -1,6 +1,18 @@
-# 🚀 Olist Intelligent Guardrail
+# 🚀 Olist Intelligent Guardrail (E-commerce Logistics Intelligence)
 
-### AI-Powered Delivery Risk Prediction System
+### AI-Powered Delivery Risk Prediction  
+**End-to-End Data Science & Machine Learning Application**
+
+**FastAPI · Streamlit · Scikit-learn · Plotly · Hugging Face Spaces**
+
+---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
@@ -13,21 +25,14 @@
 
 ## 📸 App Preview
 
-### 🚀 Predictive Delivery Guardrail
 <p align="center">
-  <img src="assets/prediction.png" width="750">
+  <img src="assets/prediction.png" width="48%">
+  <img src="assets/static_analysis.png" width="48%">
 </p>
 
-### 📊 Strategic Analytics
 <p align="center">
-  <img src="assets/static_analysis.png" width="750">
+  <img src="assets/sidebar.png" width="260">
 </p>
-
-### 🎛️ Sidebar Controls
-<p align="center">
-  <img src="assets/sidebar.png" width="300">
-</p>
-
 
 ---
 
