@@ -1,9 +1,11 @@
 # 🚀 Olist Intelligent Guardrail (E-commerce Logistics Intelligence)
+> Turning logistics data into real-time risk intelligence for smarter delivery decisions.
 
-### AI-Powered Delivery Risk Prediction  
-**End-to-End Data Science & Machine Learning Application**
-
-**FastAPI · Streamlit · Scikit-learn · Plotly · Hugging Face Spaces**
+<p align="center">
+  <b>AI-Powered Delivery Risk Prediction</b><br>
+  End-to-End Machine Learning Application<br><br>
+  FastAPI · Streamlit · Scikit-learn · Plotly · Hugging Face Spaces
+</p>
 
 ---
 
@@ -51,6 +53,17 @@ The project combines:
 This solution is designed to help e-commerce businesses proactively identify risky orders before delivery issues impact customers and operations.
 
 ---
+## 💼 Business Impact
+
+This system is designed to help e-commerce platforms:
+
+- 🚚 **Reduce late deliveries** by identifying high-risk orders early  
+- 📉 **Minimize operational losses** from delayed shipments  
+- 📊 **Improve logistics planning** using risk-based decision making  
+- 🤝 **Enhance customer satisfaction** with proactive intervention  
+- ⚡ **Enable real-time decision support** for operations teams  
+
+---
 
 ## 🧠 Problem Statement
 
@@ -67,6 +80,19 @@ This system predicts **whether an order is likely to be delayed**, enabling:
 * smarter logistics planning
 * risk-aware operational decisions
 * faster response to high-risk shipments
+
+---
+## 🎯 Real-World Use Case
+
+A logistics manager can:
+
+1. Input order details (distance, weight, price, seller risk)
+2. Instantly receive a **risk score**
+3. Take action:
+   - Low risk → proceed normally  
+   - High risk → prioritize or reroute shipment  
+
+This transforms raw data into **actionable business decisions in seconds**.
 
 ---
 
@@ -142,20 +168,23 @@ olist-intelligent-guardrail/
 
 ---
 
-## 📊 Model Details
+## 📊 Model Intelligence
 
-* **Model Type:** Robust Ensemble Classifier
-* **Primary Inputs:**
+The model predicts the **probability of delivery delay** based on:
 
-  * Distance
-  * Price
-  * Weight
-  * Seller Risk
-  * Regional Risk
-* **Outputs:**
+- 📍 Distance & logistics complexity  
+- 📦 Product weight & shipping load  
+- 💰 Order value & freight ratio  
+- 🏪 Seller reliability (historical performance)  
+- 🌍 Regional delay patterns  
 
-  * Delay Probability
-  * Risk Classification
+### Output
+
+- 🎯 Delay Probability (0–100%)
+- 🚦 Risk Classification (Low / High)
+
+👉 Designed for **real-time decision-making in logistics operations**
+
 
 ---
 
