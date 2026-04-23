@@ -15,17 +15,17 @@
 
 ### 🚀 Predictive Delivery Guardrail
 <p align="center">
-  <img src="assets/prediction.png" width="900">
+  <img src="assets/prediction.png" width="750">
 </p>
 
 ### 📊 Strategic Analytics
 <p align="center">
-  <img src="assets/static_analysis.png" width="900">
+  <img src="assets/static_analysis.png" width="750">
 </p>
 
 ### 🎛️ Sidebar Controls
 <p align="center">
-  <img src="assets/sidebar.png" width="400">
+  <img src="assets/sidebar.png" width="300">
 </p>
 
 
